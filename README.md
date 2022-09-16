@@ -148,7 +148,7 @@ Let's make a new pull request comparing the `release-v1.0` branch to the `main` 
 </details>
 
 <!--Step 4-->
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Generate release notes and merge</h2></summary>
 
 ### Automatically generated release notes
@@ -179,7 +179,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 </details>
 
 <!--Step 5-->
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Finalize the release</h2></summary>
 
 ### Finalizing releases
